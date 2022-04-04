@@ -1,5 +1,6 @@
 # Authentication between users using KDC server
 ###  For each class and method I wrote JavaDocs accordingly.
+- Before you start, please open the picture attached in this repository to understand better what is this repository all about.
 ------------
 - The Main class is actually a class in which all the functionalities of the application are tested. There are no functions inside this class, just a reference to pre-existing classes and methods.
 
